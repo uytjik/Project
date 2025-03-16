@@ -55,4 +55,4 @@ jobs:
           app-name: 'agecalculator'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E9DD711B16E4F33B53B59A621412EF3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_275F635970A24E93B2F4101AEF7EF59F }}
